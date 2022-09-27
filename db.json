@@ -1,0 +1,129 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Managed client-server moderator",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Sharable motivating contingency",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Streamlined asynchronous data-warehouse",
+      "status": false
+    },
+    {
+      "id": 4,
+      "title": "Visionary modular ability",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Customer-focused motivating leverage",
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "Profound foreground circuit",
+      "status": true
+    },
+    {
+      "id": 7,
+      "title": "Integrated secondary pricing structure",
+      "status": false
+    },
+    {
+      "id": 8,
+      "title": "Diverse 5th generation framework",
+      "status": false
+    },
+    {
+      "id": 9,
+      "title": "Devolved demand-driven encoding",
+      "status": false
+    },
+    {
+      "id": 10,
+      "title": "Progressive holistic service-desk",
+      "status": true
+    },
+    {
+      "id": 11,
+      "title": "Fundamental asynchronous open system",
+      "status": false
+    },
+    {
+      "id": 12,
+      "title": "Ergonomic upward-trending leverage",
+      "status": true
+    },
+    {
+      "id": 13,
+      "title": "Innovative cohesive core",
+      "status": false
+    },
+    {
+      "id": 14,
+      "title": "Open-architected mobile application",
+      "status": true
+    },
+    {
+      "id": 15,
+      "title": "Object-based full-range database",
+      "status": false
+    },
+    {
+      "id": 16,
+      "title": "Managed didactic capacity",
+      "status": true
+    },
+    {
+      "id": 17,
+      "title": "Cross-platform leading edge definition",
+      "status": false
+    },
+    {
+      "id": 18,
+      "title": "Universal background parallelism",
+      "status": false
+    },
+    {
+      "id": 19,
+      "title": "Centralized intermediate structure",
+      "status": true
+    },
+    {
+      "id": 20,
+      "title": "Team-oriented impactful neural-net",
+      "status": true
+    },
+    {
+      "id": 21,
+      "title": "Robust stable initiative",
+      "status": true
+    },
+    {
+      "id": 22,
+      "title": "Exclusive contextually-based methodology",
+      "status": false
+    },
+    {
+      "id": 23,
+      "title": "Advanced regional encryption",
+      "status": true
+    },
+    {
+      "id": 24,
+      "title": "Open-source neutral artificial intelligence",
+      "status": false
+    },
+    {
+      "id": 25,
+      "title": "Persevering dedicated task-force",
+      "status": true
+    }
+  ]
+}
